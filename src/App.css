@@ -29,7 +29,7 @@ a:hover{
 }
 
 .main{
-   flex: 0.8;
+   margin-left: 259px;
    width: 100%;
    
 }
@@ -66,7 +66,7 @@ a:hover{
    font-size: 1.2rem !important;
    background-color: var(--bgSecondary) !important;
    border: none !important;
-   height: 100% !important;
+   height: 40px !important;
 }
 
 .loader{
@@ -78,19 +78,19 @@ a:hover{
 
 @media screen and (max-width:1300px){
    .main{
-       margin-left: 50px;
+      margin-left: 259px;
    }
 }
 
 @media screen and (max-width:1170px){
    .main{
-       margin-left: 50px;
+      margin-left: 259px;
    }
 }
 
 @media screen and (max-width:1015px){
    .main{
-       margin-left: 100px;
+      margin-left: 259px;
    }
 
    .coin-detail-container {
@@ -111,7 +111,7 @@ a:hover{
    .main{
        flex: 1;
        margin-top: 90px;
-       margin-left: 0px;
+       margin-left: 10px;
        margin-right: 10px;
    }
 
